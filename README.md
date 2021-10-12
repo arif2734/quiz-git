@@ -1,4 +1,4 @@
-# quiz-git
+# Quiz-git
 
 Nama  : Arif Wahyu Prasetyo
 NIM   : 19.11.2734
